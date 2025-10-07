@@ -1,0 +1,40 @@
+1)Biblioteca digital:
+-Classes: Livro, autor e empréstimo.
+-Atributos: Título, ISBN e número de páginas para livro; nome e nacionalidade para autor.
+-Métodos: Registrar novo livro, buscar livro e controlar empréstimos.
+-Relacionamento: 
+
+2)Aplicativo de transporte:
+-Classes: Passageiro, motorista, corrida e pagamento.
+-Atributos: Nome, telefone e histórico de corridas para passageiro; CNH, placa do veículo e
+avaliação média para motorista.
+-Métodos: Solicitar corrida, aceitar corrida, calcular o valor, encerrar corrida e registrar
+pagamento.
+-Relacionamento:
+
+3)Escola de música:
+-Classes: Curso, aluno, professor, turma.
+-Atributos: Tipos de curso, carga horária e valor da mensalidade para curso; nome, idade e
+nível de conhecimento para aluno.
+-Métodos: Abrir nova turma, registrar presença do aluno.
+-Relacionamento:
+
+4)Sistema hotelaria:
+-Classes: Quarto e hóspede.
+-Atributos: Número, tipo e status para quarto; nome, documento e data de saída/entrada
+para hóspedes.
+-Métodos: Reservar quarto, realizar check-in e check-out.
+-Relacionamento:
+
+5)Loja online:
+-Classes: Produto, categoria, estoque, carrinho.
+-Atributos: Nome, preço e estoque para produto; Nome e CPF para clientes.
+-Métodos: Criar uma conta, adicionar produto no carrinho e finalizar compra.
+-Relacionamento:
+
+6)Rede social de fotos:
+-Classes: Usuário, conversa e fotos.
+-Atributos: Perfil, nome e post para usuários; histórico de mensagens para a conversa e
+legenda, data de postagem e curtidas para fotos.
+-Métodos: Criar e encerrar conta, seguir e bloquear usuários, enviar e receber mensagens.
+-Relacionamento:
